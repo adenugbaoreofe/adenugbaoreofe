@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 I love Blockchain technology. Is massive technology
 I love to learn how to code
 I want to be a web developer
-@ossdao-org•AIRDROP-0xd4156bdFB118A44341A23966197bBFD283EE789a
+
+@ossdao-org•AIRDROP-0x01dfCf251789d59592D75387B73cf9165cb03379
